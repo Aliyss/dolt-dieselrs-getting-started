@@ -1,0 +1,11 @@
+[package]
+name = "dolt-dieselrs-getting-started"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.26"
+diesel = { version = "2.1.0", features = ["mysql", "chrono"] }
+dotenv = "*"
+tabled = "0.12.2"
+
