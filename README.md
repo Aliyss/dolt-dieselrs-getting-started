@@ -1,6 +1,6 @@
 # dolt-dieselrs-getting-started
 
-A Getting Started demo of [Dolt](https://www.doltdb.com) and [Diesel](https://www.diesel.rs)
+A Getting Started demo of [Dolt](https://www.doltdb.com) and [Diesel](https://github.com/diesel-rs/diesel.rs)
 
 ## dolt
 
